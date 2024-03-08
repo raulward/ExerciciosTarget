@@ -39,7 +39,7 @@ def d(quantity):
         number += 2
         i += 1
 
-d(7)
+d(5)
 print()
 
 def e(quantity): 
@@ -50,6 +50,6 @@ def e(quantity):
     sequence.append(sequence[-1] + sequence[-2])
     i += 1
 
-e(6)
+e(7)
 
 # Sem lógica matemática por trás -> 200 o próximo número que começa com 'D'
